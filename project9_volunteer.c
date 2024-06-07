@@ -18,7 +18,7 @@
  * non-existent volunteers.
 
 YUSRA RASOOL
-U67661285 */
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
