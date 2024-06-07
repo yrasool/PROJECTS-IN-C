@@ -6,7 +6,7 @@
  * and digits from 0 to 8. If all arguments are valid, it prints "valid"; otherwise, it prints "invalid".
  *
 Yusra Rasool
- * U67661285
+ * 
  */
 
 #include <stdio.h>
