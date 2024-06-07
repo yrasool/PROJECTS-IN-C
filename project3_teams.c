@@ -6,7 +6,7 @@
  * enhances the efficiency and readability of the code in the context of C programming practices.
  *
  *  Yusra Rasool
- * Student ID: U67661285
+ * 
  */
 
 #include <stdio.h>
