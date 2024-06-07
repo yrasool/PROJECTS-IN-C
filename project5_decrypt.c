@@ -4,7 +4,7 @@
  * The program reverses this encryption to get the original message.
  * 
  * YUSRA RASOOL
- * U67661285
+ * 
  */
 
 #include <stdio.h>
