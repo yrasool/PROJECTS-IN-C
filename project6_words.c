@@ -1,7 +1,7 @@
 /*
  
  *YUSRA RASOOL
- U67661285
+ 
 
  * This program reads words from a file specified by the user, checks each word to determine
  * if it is composed of a substring repeated twice (a "square" word), and writes these square
