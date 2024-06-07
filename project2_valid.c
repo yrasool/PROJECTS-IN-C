@@ -11,7 +11,7 @@
  *
  
  * YUSRA RASOOL
- * U67661285**/
+ * **/
 
 #include <stdio.h>
 
