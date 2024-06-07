@@ -1,6 +1,6 @@
 /* 
  * YUSRA RASOOL
- U67661285
+ 
  * Description: This program determines which episode of a TV series has not been watched.
  * Yuka has watched all episodes of a season except for one. The program reads the total
  * number of episodes and the episodes Yuka has watched, then prints the one she hasn't.
